@@ -1,0 +1,41 @@
+body{
+    margin: 20px;
+    text-align: center;
+}
+#carouselExampleIndicators -container {
+display: inline-block;
+margin-top: 20px;
+}
+
+#carouselExampleIndicators {
+padding: 10px;
+margin: 10px;
+font-size: 16px;
+border: none;
+border-radius: 5px;
+}
+
+h1{
+    color: blue;
+}
+
+p
+{
+    background-color: aqua;
+}
+
+.PORTAFOLIO{
+    font-size: 18px;
+    color: black;
+    text-align:center;
+    font-family: Lobster;
+}
+h1{
+    background-color: blueviolet;
+}
+.carousel{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+
+}
